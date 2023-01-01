@@ -203,6 +203,10 @@ body{
     place-items: center;
 }
 
+#textoResultado{
+    align-items: center;
+}
+
 #muneco{
     width: 65%;
     vertical-align:middle;
