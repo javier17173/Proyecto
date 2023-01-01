@@ -321,8 +321,10 @@ footer{
 }
 
 @media screen and (max-width:480px){
-    .flex, .flex-2{
+    .contenedor, .flex, .botones, .flex-2 {
         width: auto;
+        height: auto;
+        display: none;
     }
     
 }
